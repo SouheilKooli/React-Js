@@ -6,12 +6,12 @@
   align-items: center;
   font-size: calc(10px + 2vmin);
   border-style: solid;
-  border-color: rgb(105, 3, 3);
+  border-color: rgb(0, 0, 0);
   border-radius: 20px;
   margin: auto;
   height: 500px;
   padding-top: 40px;
-  background-color: rgb(69, 91, 161);
+  background-color: rgb(140, 92, 228);
   margin-top: 8%;  
 }
 
